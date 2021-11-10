@@ -17,7 +17,7 @@ A system operation is an abstraction of a request that the application must hand
 The AnyChain solution will be implemented via the Agile Scrum and the Product Backlog is currently implemented within Yodiz. Yodiz is a simple but comprehensive agile tool which helps to manage Agile projects of all levels of complexity. </td>
   </tr>
   <tr>
-    <td>System Context diagram (<a href="C4">https://c4model.com</a>)</td>
+    <td>System Context diagram (<a href="https://c4model.com">C4</a>)</td>
     <td>The highest granularity diagram. It has little detail but its main goal is to describe the context in which the solution resides. So, it will be composed by one single box for the whole application, and it will be surrounded by other boxes that refer to the external systems and users the application interacts with.</td>
   </tr>
   <tr>
