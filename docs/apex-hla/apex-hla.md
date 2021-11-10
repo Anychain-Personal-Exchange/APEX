@@ -1,4 +1,4 @@
-APEX High-Level Architecture 
+# APEX High-Level Architecture 
 
 APEX is designed as a decentralized and distributed system. APEX is meant to run in the cloud or on hardware owned and operated by the Owner. Every Owner could operate their own APEX environment with important data shared/replicated through a distributed hash table/chain. Alternatively, Owners may pay someone like AnyChain to host their APEX environment where common services are provided for all paying Owners without compromising on control and ownership.
 
@@ -20,7 +20,7 @@ APEX is a system that consists of 3 key components:
 
 **Figure 2:  AnyChain High-Level Architecture**
 
-APEX Owner
+## APEX Owner
 
 The Au Wallet is the Owner’s interface. It is a single place where an Owner can connect, communicate and transact with other Owners, blockchains and services. Core functionality like enrollment, authentication and administration make up the core of the Au Wallet, while other desired functionality is enabled dynamically using microapps.
 
@@ -54,7 +54,7 @@ The Vault offers Owners the ability to securely back up their critical keys and 
 
 **Figure 4:  APEX UI-ACC-AXI  Interactions**
 
-APEX Project Roadmap
+## APEX Project Roadmap
 
 The APEX project roadmap is built around the 4 stages of ownership maturity as identified by AnyChain. 
 
