@@ -67,7 +67,7 @@ Define functions corresponding to DDD domains.
     <td>Add tagging to the user stories spreadsheet.</td>
   </tr>
   <tr>
-    <td>Component diagram (<a href="https://c4model.com" title="C4"</a>)</td>
+    <td>Component diagram (C4)</td>
     <td>This diagram shows how a domain is made up of a set of "serverless" functions and capabilities, what each of those "serverless" functions are, their responsibilities and the technology and implementation details.</td>
   </tr>
 </table>
