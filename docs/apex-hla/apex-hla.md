@@ -70,6 +70,8 @@ The APEX Maturity Model is built around the 4 stages of ownership maturity as id
 
 ![image alt text](image_4c.png)
 
+-> **Figure 5:  AnyCahin maturity Model** <-
+
 AnyChain has identified simple use cases that map to the stages of Ownership maturity. These stages provide a general guide for prioritizing new functionality in upcoming releases. Each stage is built around a theme which should guide development. Stage 1 is all about helping an individual to get their digital life in order. With stage 2 APEX focuses on organizing and managing group interactions. The third stage is meant to support Owners who are building their business using APEX services. And the final stage is meant for Owners who have a vision or expertise they would like to share with others in order to deliver new experiences.
 
 <table>
