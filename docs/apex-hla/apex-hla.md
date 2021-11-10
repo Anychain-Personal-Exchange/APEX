@@ -20,7 +20,7 @@ APEX is a system that consists of 3 key components:
 
 **Figure 2:  AnyChain High-Level Architecture**
 
-## APEX Owner
+## APEX UI (Au Wallet)
 
 The Au Wallet is the Owner’s interface. It is a single place where an Owner can connect, communicate and transact with other Owners, blockchains and services. Core functionality like enrollment, authentication and administration make up the core of the Au Wallet, while other desired functionality is enabled dynamically using microapps.
 
@@ -28,8 +28,10 @@ The Au Wallet is the Owner’s interface. It is a single place where an Owner ca
 
 **Figure 3:  AXI Identity Interactions**
 
+## APEX Identity (AXI)
 APEX Identity represents the Owner, only connects with the Owner’s device and acts on their behalf. The AXI drives automation on behalf of the Owner and prompts the Owner for authorization anytime critical/protected data (e.g. private keys) are requested or required to perform an activity.
 
+## AnyChain Cloud (ACC)
 The ACC is how a single Owner’s Au Wallet and AXI connect with the rest of the world. This is where blockchains and other APEX services are deployed to support Owner’s activities. The goal for ACC is to provide serverless functions supporting activities (APIs) to operate or integrate with any blockchain or service the Owner desires.
 
 All content (e.g. audio files, video files, portable web sites, etc.) is contained in blocks. Blocks are encrypted compressed archives that contain content and a manifest describing the contents for handling purposes. Blocks are shared with other Owners over IPFS
@@ -54,9 +56,9 @@ The Vault offers Owners the ability to securely back up their critical keys and 
 
 **Figure 4:  APEX UI-ACC-AXI  Interactions**
 
-## APEX Project Roadmap
+# APEX Maturity Model
 
-The APEX project roadmap is built around the 4 stages of ownership maturity as identified by AnyChain. 
+The APEX Maturity Model is built around the 4 stages of ownership maturity as identified by AnyChain. 
 
 * **Phase 1**: **Personal Ownership** is about empowering people to organize, control and manage their personal digital assets, shared content and connections with others. 
 
@@ -68,7 +70,7 @@ The APEX project roadmap is built around the 4 stages of ownership maturity as i
 
 ![image alt text](image_4c.png)
 
-AnyChain has identified simple use cases that map to the stages of Ownership. These stages provide a general guide for prioritizing new functionality in upcoming releases. Each stage is built around a theme which should guide development. Stage 1 is all about helping an individual to get their digital life in order. With stage 2 APEX focuses on organizing and managing group interactions. The third stage is meant to support Owners who are building their business using APEX services. And the final stage is meant for Owners who have a vision or expertise they would like to share with others in order to deliver new experiences.
+AnyChain has identified simple use cases that map to the stages of Ownership maturity. These stages provide a general guide for prioritizing new functionality in upcoming releases. Each stage is built around a theme which should guide development. Stage 1 is all about helping an individual to get their digital life in order. With stage 2 APEX focuses on organizing and managing group interactions. The third stage is meant to support Owners who are building their business using APEX services. And the final stage is meant for Owners who have a vision or expertise they would like to share with others in order to deliver new experiences.
 
 <table>
   <tr>
