@@ -68,6 +68,8 @@ AnyChain is tackling simplicity head on. While technically savvy owners can run 
 
 ![image alt text](image_1a.png)
 
+**Figure 2:  APEX Activities**
+
 ## APEX as your Personal Exchange
 
 The Personal Exchange is an evolutionary new idea. With APEX, AnyChain wants to turn everyone into an Owner who commands their personal own economy and benefits from decentralization. Our vision is multifaceted and we have only covered the tip of the APEX iceberg so far. The APEX roadmap shared as part of the APEX High-Level Architecture document provides more context on how AnyChain will evolve APEX services based on Ownership Maturity.
