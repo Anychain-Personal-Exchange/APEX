@@ -67,7 +67,7 @@ Define functions corresponding to DDD domains.
     <td>Add tagging to the user stories spreadsheet.</td>
   </tr>
   <tr>
-    <td>Component diagram (C4)</td>
+    <td>Component diagram (<a href="https://c4model.com">C4</a>)</td>
     <td>This diagram shows how a domain is made up of a set of "serverless" functions and capabilities, what each of those "serverless" functions are, their responsibilities and the technology and implementation details.</td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ Define each serverless function’s API: its operations and events. A serverless
     <td>Description</td>
   </tr>
   <tr>
-    <td>Domain API Collaboration</td>
+    <td>Domain API Overview</td>
     <td>A spreadsheet that details the service, its operations and potential collaborations.
 
 The APIs are broken down by APEX Identity and AnyChain Cloud  domains. </td>
