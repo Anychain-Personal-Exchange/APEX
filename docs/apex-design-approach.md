@@ -22,7 +22,7 @@ The AnyChain solution will be implemented via the <a href="https://www.yodiz.com
   </tr>
   <tr>
     <td>Domains</td>
-    <td>The AnyChain implementation is based on Domain-Driven Design (DDD). DDD defines a separate domain model for each subdomain. A subdomain is a part of the domain, DDD’s term for the application’s problem space.
+    <td>The AnyChain implementation is based on Domain-Driven Design (<a href="https://github.com/heynickc/awesome-ddd">DDD</a>). DDD defines a separate domain model for each subdomain. A subdomain is a part of the domain, DDD’s term for the application’s problem space.
 DDD calls the scope of a domain model a bounded context. A bounded context includes the code artifacts that implement the model. When using the serverless architecture, each bounded context is a set of self-contained services.
 The DDD concept of subdomains and bounded contexts maps nicely as a set of serverless design patterns. Our solution is focused purely on the individual functions defined within our subdomains.﻿ Our frontend uses autonomous microapps that are independently deployed. The objective of a micro frontend is to divide the user experience into a set of independent micro applications, while also providing users with a seamless experience. </td>
   </tr>
@@ -31,7 +31,7 @@ The DDD concept of subdomains and bounded contexts maps nicely as a set of serve
     <td>The Domain Interface Map defines the activity interactions between the associated domains. Activity is based on direction (i=inbound, o=outbound, b=both).</td>
   </tr>
   <tr>
-    <td>Container Diagram (C4)</td>
+    <td>Container Diagram (<a href="https://c4model.com">C4</a>)</td>
     <td>The Container diagram shows the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the containers communicate with one another. It's a simple, high-level technology focused diagram that is useful for software developers and support/operations staff alike.</td>
   </tr>
   <tr>
