@@ -1,8 +1,8 @@
-APEX Differentiators
+## APEX Differentiators
 
 AnyChain introduces some new ideas in order to drive security and simplicity for Owners. Protean Credentials are used to simplify authentication while creating a dynamic attack surface. A strong assertion of identity is central to AnyChain and is required for all interactions. Blocks contain all content generated, shared or consumed which is then delivered over IPFS. Below we will examine each new idea in more detail.
 
-Protean Credential
+### Protean Credential
 
 A Protean Credential entrusts the Owner with an encrypted payload on their device containing their unique data: challenge, hashed response, GUID for their unique AnyChain Identity (AXI), and private key for the AXI. ACC holds the private key required to decrypt the payload and perform the challenge/response to authenticate the Owner. After a successful authentication, ACC uses a new key pair to encrypt the credential data before sending it back to the owner and saving the new private key for the next authentication attempt. Once their AXI is started, the Owner controls a secondary Protean Credential that specifically controls access to their most significant protected data like private keys or credit card numbers. So what’s so "new" about this?
 
@@ -16,7 +16,7 @@ A Protean Credential entrusts the Owner with an encrypted payload on their devic
 
 **Figure 1￼:  Protean Credential**
 
-Identity Everywhere
+### Identity Everywhere
 
 APEX starts with an assertion of identity based on your APEX ID, which is globally unique, and used in the ephemeral DHT to locate your message slot. The APEX ID is unique to a given AXI and is NOT the same as the GUID used by ACC to find and launch your AXI. Owners connect to other Owners using their APEX ID and the public message slot to ask for profile access. All communications within APEX are based on a "known connections" only policy described below.
 
@@ -30,7 +30,7 @@ APEX starts with an assertion of identity based on your APEX ID, which is global
 
 **Anonymity** – It is worth noting that AnyChain is not against anonymity online but APEX is not designed to support it. We believe people should have a strong assertion of identity coupled with known good cryptography that they control for the best privacy and security. Malicious online trolling and bot activity both rely on the mask of anonymity so APEX eschews that mask.
 
-## Blocks, Content Catalog and IPFS
+### Blocks, Content Catalog and IPFS
 
 Blocks in APEX are encrypted, compressed files with manifests that describe the content. Blocks are meant to securely package up content for sharing with connections. Blocks can contain files (audio, video, etc.), static websites that reference APEX activities, and properties/data that can be programmatically used. Every Block is secured using a key pair specific to the connection group the Block is shared with.
 
@@ -38,11 +38,11 @@ Blocks are shared with connections via Content Catalogs. A Content Catalog is re
 
 IPFS offers a peer to peer file system that is ideally suited for sharing content. By utilizing IPFS, the more people consuming your content the faster it is delivered. In order to ensure privacy and security, APEX works with encrypted Blocks on IPFS by default.
 
-# Core Principles
+## Core Principles
 
 APEX is guided by some core design principles. First and foremost, APEX is about Owners and enriching their lives. Second, known good security primitives and practices should be implemented so Owners don’t even notice. Finally, in an era of deep fakes and digital deception, Owners should have an immutable record of their digital lives that is under their control. We will explore these topics in more detail below.
 
-## Built for Owners
+### Built for Owners
 
 APEX has been designed so that a typical mobile user can be a successful Owner. Less technical Owners may use a managed service provider to host their APEX while more technical Owners may install on a physical or cloud server they have access to. Owners will need to pay for the computing resources their APEX environments consume.
 
@@ -52,23 +52,23 @@ To facilitate secure interactions, an Owner’s device is registered with their 
 
 All activity is driven based on events added to an Owner’s Queue. This queue helps drive automation, UI operations, direct communications, sharing content and more. Public and Private Message Slots for an Owner are shared via an ephemeral DHT that is updated every time an AXI starts. This approach makes service location simple and event handling efficient and robust.
 
-## Managing Keys Doesn’t Need to be Messy
+### Managing Keys Doesn’t Need to be Messy
 
 The most secure way to engage with other people online is based on a key exchange completely controlled by the two interested parties. The problem with this approach is the key management required once keys are exchanged. Typical online users will be challenged to securely collect and manage all of the keys they may need for interactions online. Additionally, key management best practices require periodic key rotations which makes this whole process difficult for a normal person.
 
 APEX and the AXI transparently consume, produce, and manage private keys on the Owner’s behalf. Every communication between Owners is encrypted with connection specific keys to ensure privacy. Key rotation is also regularly performed in order to maintain a protean attack surface. APEX Owners gain the benefits of PKI without the complexity.
 
-## An Owner’s System of Record
+### An Owner’s System of Record
 
 Many online services and applications are built for ephemeral experiences. This means that someone else controls what is delivered to you. APEX is designed to be different. There are no AI algorithms trying to understand or manipulate your interactions and content shared with others is immutable. Owners also have full control over their Owner Queue so they can save, favorite or archive their most significant events. With APEX, Owners have complete control over their data and interactions in a manner free of manipulation.
 
-APEX Activities
+### APEX Activities
 
 AnyChain is tackling simplicity head on. While technically savvy owners can run their own APEX, AnyChain offers a hosted APEX experience for the average person. Owners control all of their data, keys and communications while AnyChain simply provides the computing resources required to support their activities in the cloud. APEX simplicity is also based on a mobile first, activity driven approach leveraging the cloud. APEX owners select the activity, actors and terms for their transactions to create a plan that is executed based on their direction. Activities are easily combined into guides that implement best practices. Those "simple" online multi-step processes are turned into guides for common blockchain activities, creating guard rails for the average user.
 
 ![image alt text](image_1a.png)
 
-## APEX as your Personal Exchange
+### APEX as your Personal Exchange
 
 The Personal Exchange is an evolutionary new idea. With APEX, AnyChain wants to turn everyone into an Owner who commands their personal own economy and benefits from decentralization. Our vision is multifaceted and we have only covered the tip of the APEX iceberg so far. The APEX roadmap shared as part of the APEX High-Level Architecture document provides more context on how AnyChain will evolve APEX services based on Ownership Maturity.
 
