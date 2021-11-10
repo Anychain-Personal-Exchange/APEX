@@ -109,15 +109,8 @@ AnyChain has identified simple use cases that map to the stages of Ownership. Th
   </tr>
 </table>
 
-<!-- Start Styles. Move the 'style' tags and everything between them to between the 'head' tags -->
-<style type="text/css">
-.myTable { background-color:#FFFFE0;border-collapse:collapse; }
-.myTable th { background-color:#BDB76B;color:white;width:50%; }
-.myTable td, .myTable th { padding:5px;border:1px solid #BDB76B; }
-</style>
-<!-- End Styles -->
-<table class="myTable">
-<tr>
+<table style="background-color:#FFFFE0;color:black;">
+<tr style="background-color:#BDB76B;color:white;">
 <th>Table Header</th><th>Table Header</th>
 </tr>
 <tr>
@@ -127,6 +120,4 @@ AnyChain has identified simple use cases that map to the stages of Ownership. Th
 <td>Table cell 3</td><td>Table cell 4</td>
 </tr>
 </table>
-
-
 
