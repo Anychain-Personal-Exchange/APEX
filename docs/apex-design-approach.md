@@ -96,6 +96,12 @@ Define each serverless function’s API: its operations and events. A serverless
 
 The APIs are broken down by APEX Identity and AnyChain Cloud  domains. </td>
   </tr>
+    <tr>
+    <td>Domain API Overview</td>
+    <td>A spreadsheet that details the service, its operations and potential collaborations.
+
+The APIs are broken down by APEX Identity and AnyChain Cloud  domains. </td>
+  </tr>
 </table>
 
 
