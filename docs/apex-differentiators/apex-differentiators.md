@@ -72,7 +72,3 @@ AnyChain is tackling simplicity head on. While technically savvy owners can run 
 
 The Personal Exchange is an evolutionary new idea. With APEX, AnyChain wants to turn everyone into an Owner who commands their personal own economy and benefits from decentralization. Our vision is multifaceted and we have only covered the tip of the APEX iceberg so far. The APEX roadmap shared as part of the APEX High-Level Architecture document provides more context on how AnyChain will evolve APEX services based on Ownership Maturity.
 
-## Join Us
-
-AnyChain wants to spread economic prosperity through ownership but we can’t do it without your help. As an open source project we need developers, partnerships with blockchains and partnerships with exchanges to bring our vision to life. As a start up we need investment to keep the wheels turning. If you are interested in volunteering on the project, partnering with us or investing in the future of decentralized economics please email [info@anycha.in](mailto:info@anycha.in). Together we can build a future based on ownership and personal freedom.
-
