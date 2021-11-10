@@ -14,7 +14,7 @@ A system operation is an abstraction of a request that the application must hand
   <tr>
     <td>User Stories</td>
     <td>The starting point are the requirements such as the user stories. An application exists to handle requests, so the first step in defining its architecture is to distill the application’s requirements into the key requests.
-The AnyChain solution will be implemented via the Agile Scrum and the Product Backlog is currently implemented within Yodiz. Yodiz is a simple but comprehensive agile tool which helps to manage Agile projects of all levels of complexity. </td>
+The AnyChain solution will be implemented via the <a href="https://www.yodiz.com/blog/what-is-scrum-in-agile-methodology-agile-development/">Agile Scrum</a>) and the Product Backlog is currently implemented within Yodiz. Yodiz is a simple but comprehensive agile tool which helps to manage Agile projects of all levels of complexity. </td>
   </tr>
   <tr>
     <td>System Context diagram (<a href="https://c4model.com">C4</a>)</td>
