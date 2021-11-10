@@ -1,6 +1,8 @@
 <!--PRODUCT_DOCS-->
 ## Intoduction
-The premise of an AnyChain Personal Exchange (APEX) is simple: Empower owners to connect, communicate and transact with blockchains, owners and services on THEIR terms. APEX enables owners to integrate blockchains with their other daily activities so they can earn, spend and store value as they see fit. Personal Exchanges provide the “**plumbing**” required to allow an owner to easily monetize their labor, physical goods and digital assets.
+The premise of an AnyChain Personal Exchange (<a href="https://www.anycha.in/">APEX</a>) is simple: Empower owners to connect, communicate and transact with blockchains, owners and services on THEIR terms. APEX enables owners to integrate blockchains with their other daily activities so they can earn, spend and store value as they see fit. Personal Exchanges provide the **plumbing** required to allow an owner to easily monetize their labor, physical goods and digital assets.
+
+AnyChain is tackling simplicity head on. While technically savvy owners can run their own APEX. AnyChain offers a hosted APEX experience for the average person. Owners control all of their data, keys and communications while AnyChain simply provides the computing resources required to support their activities in the cloud. APEX simplicity is also based on a mobile first, activity driven approach leveraging the cloud. APEX owners select the activity, actors and terms for their transactions to create a plan that is executed based on their direction. Activities are easily combined into guides that implement best practices. Those “simple” online multi-step processes are turned into guides for common blockchain activities, creating guard rails for the average user.
 
 ## Getting Started
 - [Project Introduction](docs/apex-project-introduction.md): What are our core principles & roadmap?
