@@ -22,4 +22,8 @@ The premise of an AnyChain Personal Exchange (APEX) is simple: Empower owners to
 ## How can I contribute?
 AnyChain aims to elevate and empower Owners to be their best and achieve their dreams. We believe the best way to accomplish this is through simple yet secure technology geared towards economic activity. While APEX promotes economic empowerment it also provides a powerful additional benefit: FREE SPEECH! When Owners assume the responsibility for their own APEX environment they gain control over their activities. We want every person to be an Owner who benefits from their personal autonomy. We hope that you are as excited over the benefits of ownership as we are. Please join us on this journey to empower people to be their best through economic freedom.
 
+## So Join Us
+
+AnyChain wants to spread economic prosperity through ownership but we can’t do it without your help. As an open source project we need developers, partnerships with blockchains and partnerships with exchanges to bring our vision to life. As a start up we need investment to keep the wheels turning. If you are interested in volunteering on the project, partnering with us or investing in the future of decentralized economics please email [info@anycha.in](mailto:info@anycha.in). Together we can build a future based on ownership and personal freedom.
+
 <!--PRODUCT_DOCS-->
