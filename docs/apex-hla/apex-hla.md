@@ -58,13 +58,13 @@ APEX Project Roadmap
 
 The APEX project roadmap is built around the 4 stages of ownership maturity as identified by AnyChain. 
 
-* **Phase 1**: Personal Ownership is about empowering people to organize, control and manage their personal digital assets, shared content and connections with others. 
+* **Phase 1**: **Personal Ownership** is about empowering people to organize, control and manage their personal digital assets, shared content and connections with others. 
 
-* **Phase 2**: Community Ownership focuses on building communities with shared ownership (e.g. multisig wallets) and group events/interactions. 
+* **Phase 2**: **Community Ownership** focuses on building communities with shared ownership (e.g. multisig wallets) and group events/interactions. 
 
-* **Phase 3**: Merchant Ownership focuses on more complicated transactions between Owners and other Owners, services and non-owners (e.g. no APEX account). 
+* **Phase 3**: **Merchant Ownership** focuses on more complicated transactions between Owners and other Owners, services and non-owners (e.g. no APEX account). 
 
-* **Phase 4**: Builder Ownership is where an Owner can build new experiences that are integrated with APEX and deployable by other Owners. Overall, the APEX roadmap is aligned with adding functionality to assist an Owner in growing their personal economy.
+* **Phase 4**: **Builder Ownership** is where an Owner can build new experiences that are integrated with APEX and deployable by other Owners. Overall, the APEX roadmap is aligned with adding functionality to assist an Owner in growing their personal economy.
 
 ![image alt text](image_4c.png)
 
