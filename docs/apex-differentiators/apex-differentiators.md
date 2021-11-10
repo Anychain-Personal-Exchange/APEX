@@ -13,8 +13,7 @@ A Protean Credential entrusts the Owner with an encrypted payload on their devic
 **Control** – Operators of ACC environments will only be capable of starting and stopping an Owner’s AXI, only with the Owner’s explicit permission and with NO access to an Owner’s protected data.
 
 ![image alt text](image_0a.png)
-
-**Figure 1:  Protean Credential**
+<p align="center"> <b>Figure 1:  Protean Credential</b> </p>
 
 ## Identity Everywhere
 
@@ -67,8 +66,7 @@ Many online services and applications are built for ephemeral experiences. This 
 AnyChain is tackling simplicity head on. While technically savvy owners can run their own APEX, AnyChain offers a hosted APEX experience for the average person. Owners control all of their data, keys and communications while AnyChain simply provides the computing resources required to support their activities in the cloud. APEX simplicity is also based on a mobile first, activity driven approach leveraging the cloud. APEX owners select the activity, actors and terms for their transactions to create a plan that is executed based on their direction. Activities are easily combined into guides that implement best practices. Those "simple" online multi-step processes are turned into guides for common blockchain activities, creating guard rails for the average user.
 
 ![image alt text](image_1a.png)
-
-**Figure 2:  APEX Activities**
+<p align="center"> <b>*Figure 2:  APEX Activities</b> </p>
 
 ## APEX as your Personal Exchange
 
