@@ -109,4 +109,17 @@ AnyChain has identified simple use cases that map to the stages of Ownership. Th
   </tr>
 </table>
 
+<table style="background-color:#FFFFE0;">
+<tr style="background-color:#BDB76B;">
+<th>Table Header</th><th>Table Header</th>
+</tr>
+<tr>
+<td>Table cell 1</td><td>Table cell 2</td>
+</tr>
+<tr>
+<td>Table cell 3</td><td>Table cell 4</td>
+</tr>
+</table>
+
+
 
