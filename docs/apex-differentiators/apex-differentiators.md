@@ -15,7 +15,6 @@ A Protean Credential entrusts the Owner with an encrypted payload on their devic
 ![image alt text](image_0a.png)
 
 **Figure 1:  Protean Credential**
-**Figure 1￼:  Protean Credential**
 
 ## Identity Everywhere
 
