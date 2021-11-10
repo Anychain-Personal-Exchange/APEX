@@ -53,8 +53,7 @@ When an event is received in an Owner’s message slot, serverless functions ope
 The Vault offers Owners the ability to securely back up their critical keys and data contained in their Protean Credentials. Once an ACC administrator enables Vault access for the Owner, the Owner can elect to make a backup copy of their keys. To create a backup, the Owner authenticates their Protean Credential and creates a backup phrase unique to them. We recommend using song lyrics or movie quotes that are meaningful to you since most of us don’t perfectly memorize the words but will never forget our unique variations. The backup phrase is used to encrypt the Owner’s data and the resulting encrypted blob is stored in the Vault’s secure storage. To restore a backup, the Owner must ask an ACC administrator for access to the Vault, authenticate with their current credential, provide their backup phrase and then select the keys/data to be restored to their credential.
 
 ![image alt text](image_3c.png)
-
-**Figure 4:  APEX UI-ACC-AXI  Interactions**
+<p align="center"> <b>Figure 4:  APEX UI-ACC-AXI  Interactions</b> </p>
 
 # APEX Maturity Model
 
@@ -69,7 +68,6 @@ The APEX Maturity Model is built around the 4 stages of ownership maturity as id
 * **Phase 4**: **Builder Ownership** is where an Owner can build new experiences that are integrated with APEX and deployable by other Owners. Overall, the APEX roadmap is aligned with adding functionality to assist an Owner in growing their personal economy.
 
 ![image alt text](image_4c.png)
-
 <p align="center"> <b>Figure 5:  AnyCahin maturity Model</b> </p>
 
 AnyChain has identified simple use cases that map to the stages of Ownership maturity. These stages provide a general guide for prioritizing new functionality in upcoming releases. Each stage is built around a theme which should guide development. Stage 1 is all about helping an individual to get their digital life in order. With stage 2 APEX focuses on organizing and managing group interactions. The third stage is meant to support Owners who are building their business using APEX services. And the final stage is meant for Owners who have a vision or expertise they would like to share with others in order to deliver new experiences.
