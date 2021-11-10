@@ -3,8 +3,7 @@
 APEX is designed as a decentralized and distributed system. APEX is meant to run in the cloud or on hardware owned and operated by the Owner. Every Owner could operate their own APEX environment with important data shared/replicated through a distributed hash table/chain. Alternatively, Owners may pay someone like AnyChain to host their APEX environment where common services are provided for all paying Owners without compromising on control and ownership.
 
 ![image alt text](image_0c.png)
-
-**Figure 1:  AnyChain System Context**
+<p align="center"> <b>Figure 1:  AnyChain System Context</b> </p>
 
 APEX is a system that consists of 3 key components:
 
@@ -17,16 +16,14 @@ APEX is a system that consists of 3 key components:
 3. **_APEX Identity (AXI)_** - The AXI is an Owner’s proxy online. It only connects to a single Owner’s mobile device via the Au Wallet and it performs operations in the cloud at the Owner’s direction. AXI securely stores important Owner data so that it may be used during transactions and interactions as needed. This component may be operated as a container, VM, or physical appliance (e.g. installed on a Raspberry Pi or Atomic Pi) under the Owner’s direct control.
 
 ![image alt text](image_1c.png)
-
-**Figure 2:  AnyChain High-Level Architecture**
+<p align="center"> <b>Figure 2:  AnyChain High-Level Architecture</b> </p>
 
 ## APEX UI (Au Wallet)
 
 The Au Wallet is the Owner’s interface. It is a single place where an Owner can connect, communicate and transact with other Owners, blockchains and services. Core functionality like enrollment, authentication and administration make up the core of the Au Wallet, while other desired functionality is enabled dynamically using microapps.
 
 ![image alt text](image_2c.png)
-
-**Figure 3:  AXI Identity Interactions**
+<p align="center"> <b>Figure 3:  AXI Identity Interactions</b> </p>
 
 ## APEX Identity (AXI)
 APEX Identity represents the Owner, only connects with the Owner’s device and acts on their behalf. The AXI drives automation on behalf of the Owner and prompts the Owner for authorization anytime critical/protected data (e.g. private keys) are requested or required to perform an activity.
