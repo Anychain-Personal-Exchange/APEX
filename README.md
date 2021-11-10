@@ -20,7 +20,7 @@ The premise of an AnyChain Personal Exchange (APEX) is simple: Empower owners to
 - [AnyChain Cloud (ACC) APIs](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPnQn2Wn0COj9gAfPFDLNJYpVI7PGOpGWEiZJceiUTzwdLENPQW0GPdiI09noIGaK-ExlYxonlvuji/pubhtml)
 
 ## How can I contribute?
-AnyChain aims to elevate and empower Owners to be their best and achieve their dreams. We believe the best way to accomplish this is through simple yet secure technology geared towards economic activity. While APEX promotes economic empowerment it also provides a powerful additional benefit: FREE SPEECH! When Owners assume the responsibility for their own APEX environment they gain control over their activities. We want every person to be an Owner who benefits from their personal autonomy. We hope that you are as excited over the benefits of ownership as we are. Please join us on this journey to empower people to be their best through economic freedom.
+AnyChain aims to elevate and empower Owners to be their best and achieve their dreams. We believe the best way to accomplish this is through simple yet secure technology geared towards economic activity. While APEX promotes economic empowerment it also provides a powerful additional benefit: FREE SPEECH! When Owners assume the responsibility for their own APEX environment they gain control over their activities. We want every person to be an Owner who benefits from their personal autonomy. We hope that you are as excited over the benefits of ownership as we are. 
 
 ## So Join Us
 
