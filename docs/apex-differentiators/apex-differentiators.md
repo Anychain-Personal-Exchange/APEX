@@ -1,4 +1,4 @@
-## APEX Differentiators
+# APEX Differentiators
 
 AnyChain introduces some new ideas in order to drive security and simplicity for Owners. Protean Credentials are used to simplify authentication while creating a dynamic attack surface. A strong assertion of identity is central to AnyChain and is required for all interactions. Blocks contain all content generated, shared or consumed which is then delivered over IPFS. Below we will examine each new idea in more detail.
 
