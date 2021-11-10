@@ -92,15 +92,21 @@ Define each serverless function’s API: its operations and events. A serverless
   </tr>
   <tr>
     <td>Domain API Overview</td>
-    <td>A spreadsheet that details the service, its operations and potential collaborations.
+    <td>A spreadsheet that details the AXI and ACC Domain Overview.
 
-The APIs are broken down by APEX Identity and AnyChain Cloud  domains. </td>
+The APIs are broken down by APEX Identity (AXI) and AnyChain Cloud (ACC) domains. </td>
   </tr>
     <tr>
-    <td>Domain API Overview</td>
-    <td>A spreadsheet that details the service, its operations and potential collaborations.
+    <td>AXI API Calls</td>
+    <td>A spreadsheet that details the serverless functions, their operations and potential collaborations.
 
-The APIs are broken down by APEX Identity and AnyChain Cloud  domains. </td>
+The APIs are broken down by AXI domains. </td>
+  </tr>
+      <tr>
+    <td>ACC API Calls</td>
+    <td>A spreadsheet that details the serverless functions, their operations and potential collaborations.
+
+The APIs are broken down by ACC domains. </td>
   </tr>
 </table>
 
