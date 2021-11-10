@@ -36,7 +36,7 @@ The DDD concept of subdomains and bounded contexts maps nicely as a set of serve
   </tr>
   <tr>
     <td>Serverless Design Patterns</td>
-    <td>Serverless design patterns defined within Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends </td>
+    <td>Serverless design patterns defined within <a href="https://medium.com/@jgilbert001/serverless-an-example-system-architecture-23aed85fd504">Software Architecture Patterns for Serverless Systems: Architecting for innovation with events, autonomous services, and micro frontends</a> </td>
   </tr>
 </table>
 
