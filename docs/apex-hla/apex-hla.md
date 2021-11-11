@@ -50,7 +50,7 @@ When an event is received in an Owner’s message slot, serverless functions ope
 The Vault offers Owners the ability to securely back up their critical keys and data contained in their Protean Credentials. Once an ACC administrator enables Vault access for the Owner, the Owner can elect to make a backup copy of their keys. To create a backup, the Owner authenticates their Protean Credential and creates a backup phrase unique to them. We recommend using song lyrics or movie quotes that are meaningful to you since most of us don’t perfectly memorize the words but will never forget our unique variations. The backup phrase is used to encrypt the Owner’s data and the resulting encrypted blob is stored in the Vault’s secure storage. To restore a backup, the Owner must ask an ACC administrator for access to the Vault, authenticate with their current credential, provide their backup phrase and then select the keys/data to be restored to their credential.
 
 ![image alt text](image_3c.png)
-<p align="center"> <b>Figure 4:  APEX UI-ACC-AXI  Interactions</b> </p>
+<p align="center"> <b>Figure 4:  AnyChain Cloud Interactions</b> </p>
 
 # APEX Maturity Model
 
