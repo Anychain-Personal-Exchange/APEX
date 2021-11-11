@@ -28,7 +28,7 @@ Stage 4: **Builder Ownership** - This stage empowers Owners to share their exper
 
 **Join us!**
 
-AnyChain aims to elevate and empower Owners to be their best and achieve their dreams. We believe the best way to accomplish this is through simple yet secure technology geared towards economic activity. While APEX promotes economic empowerment it also provides a powerful additional benefit: FREE SPEECH! When Owners assume the responsibility for their own APEX environment they gain control over their activities. We want every person to be an Owner who benefits from their personal autonomy. We hope that you are as excited over the benefits of ownership as we are. Please join us on this journey to empower people to be their best through economic freedom.
+AnyChain aims to elevate and empower Owners to be their best and achieve their dreams. We believe the best way to accomplish this is through simple yet secure technology geared towards economic activity. We hope that you are as excited over the benefits of ownership as we are. Please join us on this journey to empower people to be their best through economic freedom.
 
 * Al & Ed, AnyChain Co-founders 
 
