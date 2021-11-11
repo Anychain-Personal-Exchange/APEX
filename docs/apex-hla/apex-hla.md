@@ -2,11 +2,6 @@
 
 APEX is designed as a decentralized and distributed system. APEX is meant to run in the cloud or on hardware owned and operated by the Owner. Every Owner could operate their own APEX environment with important data shared/replicated through a distributed hash table/chain. Alternatively, Owners may pay someone like AnyChain to host their APEX environment where common services are provided for all paying Owners without compromising on control and ownership.
 
-!img[src*='#center'] { 
-    display: block; 
-    margin: auto; 
-}
-
 ![image alt text](image_0c.png)
 <p align="center"> <b>Figure 1:  AnyChain System Context</b> </p>
 
