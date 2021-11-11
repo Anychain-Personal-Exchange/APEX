@@ -4,7 +4,7 @@ AnyChain is based on a Domain-Driven Design approach and implemented as a set of
 
 ## Step1: Identify System Operations
 
-A system operation is an abstraction of a request that the application must handle. It’s either a command, which updates data, or a query, which retrieves data. The behavior of each command is defined in terms of an abstract domain model, which is also derived from the requirements. The system operations become the architectural scenarios that illustrate how the services collaborate.
+A system operation is an abstraction of a request that the application must handle. It’s either a command, which updates data, or a query, which retrieves data. The behavior of each command is defined in terms of an abstract domain model, which is also derived from the requirements. The system operations become the architectural scenarios that illustrate how the domains collaborate.
 
 <table>
   <tr>
