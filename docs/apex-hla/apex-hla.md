@@ -107,4 +107,4 @@ AnyChain has identified simple use cases that map to the stages of Ownership mat
     <td></td>
   </tr>
 </table>
-
+<p align="center"> <b>Table 1:  AnyChain Use Case Sequences</b> </p>
