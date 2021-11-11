@@ -31,8 +31,8 @@ The DDD concept of subdomains and bounded contexts maps nicely as a set of serve
     <td>The Domain Interface Map defines the activity interactions between the associated domains. Activity is based on direction (i=inbound, o=outbound, b=both).</td>
   </tr>
   <tr>
-    <td>Container Diagram (<a href="https://c4model.com">C4</a>)</td>
-    <td>The Container diagram shows the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the containers communicate with one another. It's a simple, high-level technology focused diagram that is useful for software developers and support/operations staff alike.</td>
+    <td>Domain Diagram (<a href="https://c4model.com">C4</a>)</td>
+    <td>The Domain diagram shows the high-level shape of the software architecture and how responsibilities are distributed across it. It also shows the major technology choices and how the serverless functions communicate with one another. It's a simple, high-level technology focused diagram that is useful for software developers and support/operations staff alike.</td>
   </tr>
   <tr>
     <td>Serverless Design Patterns</td>
