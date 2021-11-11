@@ -11,7 +11,7 @@ APEX is a system that consists of 3 key components:
 
 > The **_APEX Universal Wallet_** (**_Au Wallet_**) is the standard AnyChain microapps implementation and the Owner’s primary interface to APEX.  It is a mobile application with built-in core functionality for creating an APEX account, authenticating an Owner as required and securing/backing up critical private keys/data. The Au Wallet also supports microapps that may be dynamically added as required to support desired functionality. Examples of microapps include an Owner’s feed, content creation, owner personalization, and more.
 
-2. **_AnyChain Cloud Services (ACC)_** - This is where most of the heavy lifting for APEX is performed. ACC includes private storage of owner data, public storage of 1-to-many communications events (content sharing) in a distributed hash table/chain (DHT), serverless functions, blueprints for core functionality and blockchain nodes for desired operations. ACC is meant to be extensible as well, providing Owners with the ability to mesh new blockchains and other services with their other daily activities.
+2. **_AnyChain Cloud (ACC)_** - This is where most of the heavy lifting for APEX is performed. ACC includes private storage of owner data, public storage of 1-to-many communications events (content sharing) in a distributed hash table/chain (DHT), serverless functions, blueprints for core functionality and blockchain nodes for desired operations. ACC is meant to be extensible as well, providing Owners with the ability to mesh new blockchains and other services with their other daily activities.
 
 3. **_APEX Identity (AXI)_** - The AXI is an Owner’s proxy online. It only connects to a single Owner’s mobile device via the Au Wallet and it performs operations in the cloud at the Owner’s direction. AXI securely stores important Owner data so that it may be used during transactions and interactions as needed. This component may be operated as a container, VM, or physical appliance (e.g. installed on a Raspberry Pi or Atomic Pi) under the Owner’s direct control.
 
@@ -31,6 +31,9 @@ APEX Identity represents the Owner, only connects with the Owner’s device and 
 ## AnyChain Cloud (ACC)
 The ACC is how a single Owner’s Au Wallet and AXI connect with the rest of the world. This is where blockchains and other APEX services are deployed to support Owner’s activities. The goal for ACC is to provide serverless functions supporting activities (APIs) to operate or integrate with any blockchain or service the Owner desires.
 
+![image alt text](image_3c.png)
+<p align="center"> <b>Figure 4:  AnyChain Cloud Interactions</b> </p>
+
 All content (e.g. audio files, video files, portable web sites, etc.) is contained in blocks. Blocks are encrypted compressed archives that contain content and a manifest describing the contents for handling purposes. Blocks are shared with other Owners over IPFS
 
 Owners have public profiles for discovering content and connecting with other Owners. Public profiles are blocks shared over IPFS and contain data the Owner is willing to share publicly. This data includes a name, age, location and public key at a minimum. Owners may personalize their profiles and advertise content they are sharing publicly or monetizing.
@@ -48,9 +51,6 @@ As **Figure 4** below indicates, everything is event driven. Events are always e
 When an event is received in an Owner’s message slot, serverless functions operate on the event and add it to the Owner’s feed. The Owner’s feed is a time-series based event queue containing all significant events for the Owner. The Owner’s feed is a super set and encompasses ALL events. The UI feed is a subset of the Owner’s feed containing events defining the blocks needed to support the Owner’s activities (microapps) in the Au Wallet. The content feed is a subset of the Owner feed that contains events defining all blocks of content meant for the owner.
 
 The Vault offers Owners the ability to securely back up their critical keys and data contained in their Protean Credentials. Once an ACC administrator enables Vault access for the Owner, the Owner can elect to make a backup copy of their keys. To create a backup, the Owner authenticates their Protean Credential and creates a backup phrase unique to them. We recommend using song lyrics or movie quotes that are meaningful to you since most of us don’t perfectly memorize the words but will never forget our unique variations. The backup phrase is used to encrypt the Owner’s data and the resulting encrypted blob is stored in the Vault’s secure storage. To restore a backup, the Owner must ask an ACC administrator for access to the Vault, authenticate with their current credential, provide their backup phrase and then select the keys/data to be restored to their credential.
-
-![image alt text](image_3c.png)
-<p align="center"> <b>Figure 4:  AnyChain Cloud Interactions</b> </p>
 
 # APEX Maturity Model
 
