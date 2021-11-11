@@ -22,11 +22,11 @@ APEX is a system that consists of 3 key components:
 
 The Au Wallet is the Owner’s interface. It is a single place where an Owner can connect, communicate and transact with other Owners, blockchains and services. Core functionality like enrollment, authentication and administration make up the core of the Au Wallet, while other desired functionality is enabled dynamically using microapps.
 
-![image alt text](image_2c.png)
-<p align="center"> <b>Figure 3:  AXI Identity Interactions</b> </p>
-
 ## APEX Identity (AXI)
 APEX Identity represents the Owner, only connects with the Owner’s device and acts on their behalf. The AXI drives automation on behalf of the Owner and prompts the Owner for authorization anytime critical/protected data (e.g. private keys) are requested or required to perform an activity.
+
+![image alt text](image_2c.png)
+<p align="center"> <b>Figure 3:  AXI Identity Interactions</b> </p>
 
 ## AnyChain Cloud (ACC)
 The ACC is how a single Owner’s Au Wallet and AXI connect with the rest of the world. This is where blockchains and other APEX services are deployed to support Owner’s activities. The goal for ACC is to provide serverless functions supporting activities (APIs) to operate or integrate with any blockchain or service the Owner desires.
